@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>CNRS</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>
 
 profile:
   align: right
