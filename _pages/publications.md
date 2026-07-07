@@ -18,3 +18,5 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+<p style="text-align: center; margin-top: 2rem;"><em>*cricket chirping noises* — nothing here yet, check back soon.</em></p>
