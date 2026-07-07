@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm Barishan, currently a Marie Sklodowska Curie Actions Doctoral Candidate (<a href="https://www.postdigitalplus.net/">POSTDIGITAL+</a>) in FEMTO-ST, Besançon. My thesis mostly involves studying nonlinear dynamics of ODE neural networks
+Hello! I'm Barishan, currently a Marie Sklodowska Curie Actions Doctoral Candidate (<a href="https://www.postdigitalplus.net/">POSTDIGITAL+</a>) in FEMTO-ST, Besançon. My thesis involves investigating novel methods for optimizer-free training of physical neural networks
 
 <h3> Background </h3>
 I did a Bachelor and Master (BS-MS dual degree) in Physics with a minor in Data Science and Engineering from the Indian Institute of Science Education and Research Bhopal.
