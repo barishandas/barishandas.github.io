@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - barishandas
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - barishandas/blackbox-optimization-library
+  - barishandas/Quantum-Lanczos
+  - barishandas/Qiskit-TF-Ising-Model
+  - barishandas/Quantum-Gate
+  - barishandas/Sentiment-Analysis
+  - barishandas/OpenCV-Optical-Tweezers
+  - barishandas/Longitudinal-Asymmetry
